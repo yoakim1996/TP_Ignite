@@ -1,0 +1,2 @@
+*.so,*.jpg, filter=lfs diff=lfs merge=lfs -text
+*.cubmap,*.gif,*.uasset,*.svg,*.png,*.zip filter=lfs diff=lfs merge=lfs -text
